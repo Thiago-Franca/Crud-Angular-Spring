@@ -1,0 +1,58 @@
+# Java/Spring related
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.ser
+*.bak
+target/
+*.iml
+.idea/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# maven #
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# Angular project files #
+node_modules/
+dist/
+tmp/
+out-tsc/
+
+# Environment Files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Angular CLI
+.angular-cli.json
+.angular.json
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+tsc-debug.log
+
+# e2e
+e2e/*.js
+e2e/*.map
+
+# System Files
+.DS_Store
+Thumbs.db
